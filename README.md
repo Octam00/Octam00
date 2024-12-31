@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
 ---
@@ -33,15 +33,19 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  
   <h3>📚 Frameworks e Bibliotecas</h3>
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
   <img src="https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Discord.py">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 
   <h3>🛠️ Ferramentas</h3>
   <img src="https://img.shields.io/badge/Square_Cloud-5C6BC0?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Square Cloud">
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </div>
 
 ---
@@ -68,6 +72,9 @@
   <a href="https://github.com/Octam00/PROJETO2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Octam00&repo=PROJETO2&theme=radical" alt="Projeto 2">
   </a>
+  <a href="https://github.com/Octam00/PROJETO3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Octam00&repo=PROJETO3&theme=radical" alt="Projeto 3">
+  </a>
 </div>
 
 ---
@@ -75,9 +82,15 @@
 <h2 align="center">📞 Entre em Contato</h2>
 
 <div align="center">
-  <a href="mailto:octam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://wa.me/SEUNUMEROWHATSAPP"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://discordapp.com/users/SEUIDDISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="mailto:octam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/SEUNUMEROWHATSAPP">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://discordapp.com/users/SEUIDDISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 <div align="center">
@@ -91,3 +104,18 @@
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Obrigado">
 </p>
+
+---
+
+<h2 align="center">🌍 Conecte-se Comigo nas Redes Sociais</h2>
+
+<div align="center">
+  <a href="https://twitter.com/Octam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/Octam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
