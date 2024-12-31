@@ -14,10 +14,10 @@
 
 <div align="center">
   <p style="font-size: 20px; color: #9b59b6;">
-    🌱 **Curioso por natureza e apaixonado por desafios.**  
-    🛠️ **Desenvolvendo bots, automações e soluções criativas para comunidades digitais.**  
-    🚀 **Focado em projetos que unem funcionalidade e design.**  
-    🎯 **Objetivo:** Impactar positivamente o mundo com tecnologia!  
+    🌱 <strong>Curioso por natureza e apaixonado por desafios.</strong>  
+    🛠️ <strong>Desenvolvendo bots, automações e soluções criativas para comunidades digitais.</strong>  
+    🚀 <strong>Focado em projetos que unem funcionalidade e design.</strong>  
+    🎯 <strong>Objetivo:</strong> Impactar positivamente o mundo com tecnologia!  
   </p>
 </div>
 
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
   <img src="https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Discord.py">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   
   <h3 style="font-size: 30px; color: #2ecc71;">🛠️ Ferramentas</h3>
   <img src="https://img.shields.io/badge/Square_Cloud-5C6BC0?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Square Cloud">
